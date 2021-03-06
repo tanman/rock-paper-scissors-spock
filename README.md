@@ -1,24 +1,18 @@
-# rock-paper-scissors-spock
+# rock-paper-scissors-lizard-spock
+Full-stack implementation of rock, paper, scissors, lizard, spock!
+Technologies: Vue, Vuetify, Express, Socket.io, Speech Recognition and Generation
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development on frontend
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and hot-reloads for development on backend
 ```
-npm run build
+npm run backend
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
